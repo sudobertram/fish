@@ -28,9 +28,7 @@ chsh -s $(which fish)
 ### Config file
 
 ```bash
-cd ~/.config/fish
-git clone https://github.com/sudobertram/config.fish.git .
-source ~/.config/fish/config.fish
+cd ~/.config/ && git clone https://github.com/sudobertram/fish.git . && source ~/.config/fish/config.fish
 ```
 
 ### Fish Customization
