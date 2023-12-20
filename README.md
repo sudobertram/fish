@@ -46,6 +46,8 @@ curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install 
 ```
 
 Set theme
+https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
+
 ```bash
 omf install bobthefish
 omf theme bobthefish
